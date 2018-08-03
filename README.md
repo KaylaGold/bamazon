@@ -21,4 +21,6 @@ This is an Amazon-like storefront that takes in orders from customers and update
 - If there is enough product in stock for purchase, the app will total and show the amount owed for the placed order.
 - Step 4: The app will update the SQL database to reflect the remaining quantity.
 
+![Screenshot](Snip20180803_2.png)
 
+![Screenshot](Snip20180803_3.png)
